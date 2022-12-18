@@ -1,0 +1,9 @@
+{
+  "name": "rumus-implementasi",
+  "version": "1.0.0",
+  "description": "semua rumus matematika yg bisa di implementasi oleh sy hehehe",
+  "main": "index.js",
+  "repository": "https://github.com/rohmanahmad/rumus-implementasi",
+  "author": "rohmanahmad",
+  "license": "MIT"
+}
